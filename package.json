@@ -1,0 +1,14 @@
+{
+  "name": "pong-game",
+  "version": "1.0.0",
+  "description": "A simple Pong game built with JavaScript and HTML5 canvas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
